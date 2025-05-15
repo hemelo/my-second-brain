@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/ReportUnit Manual.md",
+                "file": "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Entity Framework/EF Entity Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReportUnit Manual"
+              "title": "EF Entity Test"
             }
           }
         ],
@@ -218,8 +218,14 @@
   },
   "active": "9214b483e60a9ba4",
   "lastOpenFiles": [
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/SpecFlow Manual.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs/Visual Studio.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Test Frameworks.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Playwright .NET Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/xUnit Manual.md",
+    "RESOURCES/Development/Programming Languages/Programming Languages.md",
+    "RESOURCES/Drawing/Improving guide.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/ReportUnit Manual.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/SpecFlow Manual.md",
     "AREAS/Health/Remédios para Viagem.md",
     "AREAS/Health/Anti-Histamínicos.md",
     "AREAS/Communication/8 Ways to Improve Communication Skills.md",
@@ -227,23 +233,17 @@
     "RESOURCES/Development/Programming Languages/Golang/Go Defer.md",
     "RESOURCES/Development/Programming Languages/Golang/Go Chan.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tools/DotNet CLI Tools Manual.md",
-    "RESOURCES/Development/Programming Languages/Programming Languages.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs/IDEs.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/DotNet.md",
     "RESOURCES/Development/Programming Languages/CSharp/DOTNET/DotNet.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ/Implementing Reliable Messaging with Retry Mechanisms.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ/RabbitMq - Core Concepts.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ/AMQP Protocol.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs/Visual Studio.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Test Frameworks.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/AutoFixture Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/BenchmarkDotNet Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Fluent Assertions Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Playwright .NET Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/ReportUnit Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/RestSharp Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Understanding .NET Frameworks and Runtimes.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Directory.Build Props and Target.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tools",
