@@ -1,0 +1,2 @@
+- Inactive items from [[PROJECTS]], [[AREAS]] and [[RESOURCES]]
+- This is the last A from [[PARA Notes]]

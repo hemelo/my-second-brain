@@ -1,0 +1,90 @@
+{
+  "journals": {
+    "life": {
+      "id": "life",
+      "type": "calendar",
+      "name": "Life",
+      "rootFolder": "JOURNAL",
+      "openOnStartup": true,
+      "startupSection": "day",
+      "day": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "YYYY/MMMM/DD-MM-YYYY, dddd",
+        "folder": "Daily",
+        "template": "TEMPLATES/Daily.md",
+        "ribbon": {
+          "show": true,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "week": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "Wo",
+        "folder": "Weekly",
+        "template": "TEMPLATES/Weekly.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "month": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "MMMM",
+        "folder": "Monthly",
+        "template": "TEMPLATES/Monthly.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "quarter": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "",
+        "folder": "Quarterly",
+        "template": "TEMPLATES/Quarterly.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      },
+      "year": {
+        "enabled": true,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "",
+        "folder": "Yearly",
+        "template": "TEMPLATES/Yearly.md",
+        "ribbon": {
+          "show": false,
+          "icon": "",
+          "tooltip": ""
+        },
+        "createOnStartup": false
+      }
+    }
+  },
+  "calendar": {
+    "firstDayOfWeek": 1,
+    "firstWeekOfYear": 1
+  },
+  "calendar_view": {
+    "leaf": "left",
+    "weeks": "left"
+  }
+}

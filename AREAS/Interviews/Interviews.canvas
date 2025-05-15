@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3219104499ea6721","x":-320,"y":-1420,"width":640,"height":760,"type":"file","file":"AREAS/Interviews/Cracking The Code Interview.md"},
+		{"id":"72b57722990a861e","x":-320,"y":-600,"width":640,"height":700,"type":"file","file":"AREAS/Interviews/Interview Simulation 01.md"}
+	],
+	"edges":[]
+}
