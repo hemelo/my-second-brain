@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Entity Framework/EF Entity Test.md",
+                "file": "AREAS/Communication/English/Phrasal Verbs in Use.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EF Entity Test"
+              "title": "Phrasal Verbs in Use"
             }
           }
         ],
@@ -218,14 +218,18 @@
   },
   "active": "9214b483e60a9ba4",
   "lastOpenFiles": [
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/SpecFlow Manual.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/ReportUnit Manual.md",
+    "AREAS/Communication/English/Phrasal Verbs in Use.md",
+    "PROJECTS/PROJECTS.md",
+    "AREAS/Communication/English",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Entity Framework/EF Entity Test.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs/Visual Studio.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Test Frameworks.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Playwright .NET Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/xUnit Manual.md",
     "RESOURCES/Development/Programming Languages/Programming Languages.md",
     "RESOURCES/Drawing/Improving guide.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/ReportUnit Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/SpecFlow Manual.md",
     "AREAS/Health/Remédios para Viagem.md",
     "AREAS/Health/Anti-Histamínicos.md",
     "AREAS/Communication/8 Ways to Improve Communication Skills.md",
@@ -241,9 +245,6 @@
     "RESOURCES/Development/Distributed Systems/RABBITMQ/AMQP Protocol.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/AutoFixture Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/BenchmarkDotNet Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/Fluent Assertions Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/RestSharp Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Understanding .NET Frameworks and Runtimes.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tools",
@@ -253,7 +254,6 @@
     "RESOURCES/Development/Programming Languages/CSharp/ASPNET",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet",
     "RESOURCES/Development/Programming Languages/CSharp",
-    "PROJECTS/Untitled",
     "RESOURCES/Building a Second Brain/Building a Second Brain.canvas",
     "Task View.canvas",
     "AREAS/Job/Job.canvas",
