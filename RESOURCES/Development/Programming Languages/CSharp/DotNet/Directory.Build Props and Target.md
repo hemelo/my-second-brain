@@ -65,16 +65,13 @@ In large [[DotNet|.NET]] solutions, maintaining consistent build configurations 
 ---
 ## 📖 **StyleCop Explained**
 
-**StyleCop** is a static code analysis tool that enforces C# coding style guidelines. It helps maintain consistent code formatting, readability, and organization across projects by automatically analyzing code and reporting violations.
+**StyleCop** is a static code analysis tool that enforces [[Csharp|C#]] coding style guidelines. It helps maintain consistent code formatting, readability, and organization across projects by automatically analyzing code and reporting violations.
 
 ### 📚 **Key Features**
 
-- ✅ Enforces C# coding standards and style rules.
-    
+- ✅ Enforces [[Csharp|C#]] coding standards and style rules.
 - ✅ Integrates directly with build processes using `StyleCop.Analyzers` NuGet package.
-    
 - ✅ Customizable through `.ruleset` files and `.editorconfig` (if used).
-    
 - ✅ Works seamlessly with [[Visual Studio]] and CI/CD pipelines.
     
 
@@ -103,11 +100,8 @@ In large [[DotNet|.NET]] solutions, maintaining consistent build configurations 
 ### 📚 **Best Practices**
 
 - ✅ Add StyleCop as a dependency via `Directory.Build.props` to enforce rules across all projects.
-    
 - ✅ Customize rule severity using `.ruleset` files.
-    
 - ✅ Run StyleCop checks as part of your CI/CD pipelines to prevent non-compliant code merges.
-    
 
 > 📌 **Tip:** You can suppress specific rules using #pragma` directives or attribute-based suppression if necessary, but this should be used sparingly to maintain code quality.
 
@@ -117,4 +111,4 @@ In large [[DotNet|.NET]] solutions, maintaining consistent build configurations 
 Use `Directory.Build.props` and `Directory.Build.targets` to eliminate repetitive configurations and ensure consistent builds across large solutions. Centralizing build logic helps enforce standards and reduce maintenance overhead.
 
 ---
-#dotnet #directorybuildprops #targets #buildautomation #centralizedconfig
+#dotnet #directorybuildprops #targets #buildautomation #centralizedconfig #boaspraticas #csharp 

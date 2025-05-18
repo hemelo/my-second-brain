@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/Capacitação de Desenvolvedor Junior/Qualidade de Código e Clean Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qualidade de Código e Clean Code"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dotnet",
+                "query": "tag:#DocumentacaoXML",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,6 +188,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "PROJECTS/Capacitação de Desenvolvedor Junior/Como Escrever os Melhores Comentários em CSharp.md",
+    "PROJECTS/Capacitação de Desenvolvedor Junior/Qualidade de Código e Clean Code.md",
+    "PROJECTS/Capacitação de Desenvolvedor Junior/Analisadores de Código Automáticos - Garantindo a Qualidade em Ambientes Corporativos.md",
+    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Directory.Build Props and Target.md",
+    "PROJECTS/Untitled 1",
     "AREAS/Communication/English/Phrasal Verbs in Use.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/SpecFlow Manual.md",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/ReportUnit Manual.md",
@@ -207,10 +216,6 @@
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/DotNet.md",
     "RESOURCES/Development/Programming Languages/CSharp/DOTNET/DotNet.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ/Implementing Reliable Messaging with Retry Mechanisms.md",
-    "RESOURCES/Development/Distributed Systems/RABBITMQ/RabbitMq - Core Concepts.md",
-    "RESOURCES/Development/Distributed Systems/RABBITMQ/AMQP Protocol.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/AutoFixture Manual.md",
-    "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests/Test Frameworks/BenchmarkDotNet Manual.md",
     "RESOURCES/Development/Distributed Systems/RABBITMQ",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/IDEs",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tools",
@@ -219,7 +224,6 @@
     "RESOURCES/Development/Programming Languages/CSharp/DotNet/Tests",
     "RESOURCES/Development/Programming Languages/CSharp/ASPNET",
     "RESOURCES/Development/Programming Languages/CSharp/DotNet",
-    "RESOURCES/Development/Programming Languages/CSharp",
     "RESOURCES/Building a Second Brain/Building a Second Brain.canvas",
     "Task View.canvas",
     "AREAS/Job/Job.canvas",
