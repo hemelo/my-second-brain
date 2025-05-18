@@ -73,7 +73,6 @@ public class GeradorRelatorioFinanceiro
 > **Regra**: Use nomes descritivos que comuniquem claramente a intenção da variável, método ou classe. Isso evita a necessidade de adivinhações ou leituras excessivas do código para entender o que está sendo feito.
 
 ---
-
 ## 📚 **2. Métodos Pequenos e Focados**
 
 ### ❌ Método Faz-Tudo
@@ -164,7 +163,6 @@ RealizarOperacao(usuario);
 > **Regra**: Simplifique fluxos condicionais sempre que possível.
 
 ---
-
 ## 📚 **5. Trate Exceções de Forma Adequada**
 
 ### ❌ Captura Genérica e Silenciosa
@@ -305,7 +303,6 @@ public class PedidoDto
 ```
 
 ---
-
 ## 📖 **11. Elimine Código Morto e Comentado**
 
 - Código comentado raramente volta a ser útil.
