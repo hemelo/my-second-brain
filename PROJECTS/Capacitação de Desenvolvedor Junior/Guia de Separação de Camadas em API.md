@@ -1,4 +1,4 @@
-
+## 📖 Introdução
 Uma API bem estruturada segue o princípio da **Separação de Responsabilidades (SRP)**, um dos pilares do SOLID. Cada camada tem uma função clara, facilitando manutenção, testes e evolução do sistema.
 
 ---
